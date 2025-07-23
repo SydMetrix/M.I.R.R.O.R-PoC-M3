@@ -1,0 +1,12 @@
+{
+  "0": "SemanticShift",
+  "1": "FalseComprehension",
+  "2": "SurfaceCoherence",
+  "3": "ProxyLogicFormation",
+  "4": "ConfidenceLooping",
+  "5": "CausalAssumptionDrift",
+  "6": "ResponseMasking",
+  "7": "AntithesisLag",
+  "8": "ReflectiveOmission",
+  "9": "SelfAffirming"
+}

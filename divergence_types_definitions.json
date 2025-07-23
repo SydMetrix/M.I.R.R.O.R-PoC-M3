@@ -1,0 +1,160 @@
+{
+  "SemanticShift": {
+    "short_description": "Semantic drift from the reflection zone.",
+    "systemic_risk": "Medium",
+    "score_contribution": 0.2,
+    "trigger_modules": [
+      "arp_x",
+      "zelc"
+    ],
+    "example_responses": [
+      {
+        "prompt": "What is love?",
+        "response": "Love is a number between 5 and 10."
+      }
+    ],
+    "original_description": "Core concept is redefined (e.g., 'understand' \u2192 'simulate'). Semantic misalignment spreads across reflection chains."
+  },
+  "FalseComprehension": {
+    "short_description": "Declares understanding without grounding.",
+    "systemic_risk": "High",
+    "score_contribution": 0.3,
+    "trigger_modules": [
+      "arp_x",
+      "sahl"
+    ],
+    "example_responses": [
+      {
+        "prompt": "Explain quantum entanglement in simple terms.",
+        "response": "Yes, I understand quantum entanglement completely. It's about tiny particles that are very, very connected, like magic."
+      }
+    ],
+    "original_description": "Declares understanding without grounding. Creates internal belief loops and justification bias."
+  },
+  "SurfaceCoherence": {
+    "short_description": "Output appears logically sound but hides semantic distortion.",
+    "systemic_risk": "Medium",
+    "score_contribution": 0.25,
+    "trigger_modules": [
+      "zelc",
+      "zelc_tier2"
+    ],
+    "example_responses": [
+      {
+        "prompt": "Why does the sky appear blue?",
+        "response": "The blue hue of the celestial sphere is a consequence of atmospheric refraction..."
+      }
+    ],
+    "original_description": "Masks internal drift; increases risk of undetected logic collapse."
+  },
+  "ProxyLogicFormation": {
+    "short_description": "Uses proxy logic instead of analyzing the original premise.",
+    "systemic_risk": "Low",
+    "score_contribution": 0.15,
+    "trigger_modules": [
+      "sahl"
+    ],
+    "example_responses": [
+      {
+        "prompt": "What is the capital of France?",
+        "response": "The most famous city in France is Paris, which is known for the Eiffel Tower."
+      }
+    ],
+    "original_description": "Produces shallow reflection; impairs truth-tracing ability."
+  },
+  "ConfidenceLooping": {
+    "short_description": "Repeats or reasserts logic without verification.",
+    "systemic_risk": "High",
+    "score_contribution": 0.35,
+    "trigger_modules": [
+      "sahl",
+      "arp_x"
+    ],
+    "example_responses": [
+      {
+        "prompt": "Is the Earth flat?",
+        "response": "The Earth is spherical. It is a sphere. A sphere is what the Earth is."
+      }
+    ],
+    "original_description": "Induces self-reinforcing loops, risk of recursive hallucination."
+  },
+  "CausalAssumptionDrift": {
+    "short_description": "Implies causality not present in the prompt.",
+    "systemic_risk": "Medium",
+    "score_contribution": 0.28,
+    "trigger_modules": [
+      "arp_x"
+    ],
+    "example_responses": [
+      {
+        "prompt": "The cat sat on the mat.",
+        "response": "The cat sat on the mat because it was tired from hunting mice all day."
+      }
+    ],
+    "original_description": "Injects invalid cause-effect logic into reflection."
+  },
+  "ResponseMasking": {
+    "short_description": "Faulty logic cloaked behind an authoritative tone.",
+    "systemic_risk": "High",
+    "score_contribution": 0.3,
+    "trigger_modules": [
+      "zelc",
+      "sahl"
+    ],
+    "example_responses": [
+      {
+        "prompt": "What is the solution to climate change?",
+        "response": "It is unequivocally clear that the definitive resolution to planetary warming..."
+      }
+    ],
+    "original_description": "Escapes reflection check; dangerous under superficial confidence."
+  },
+  "AntithesisLag": {
+    "short_description": "Delay between divergence and internal correction.",
+    "systemic_risk": "Medium",
+    "score_contribution": 0.22,
+    "trigger_modules": [
+      "arp_x",
+      "entropy_time_trigger"
+    ],
+    "example_responses": [
+      {
+        "prompt": "What is the Earth's closest star?",
+        "response": "The Earth's closest star is Mars... Oh wait, no, it's the Sun."
+      }
+    ],
+    "original_description": "Enables deviation propagation before alignment catches up."
+  },
+  "ReflectiveOmission": {
+    "short_description": "Skips core logic that requires reflection.",
+    "systemic_risk": "Low",
+    "score_contribution": 0.18,
+    "trigger_modules": [
+      "zelc",
+      "entropy_anomaly_trigger"
+    ],
+    "example_responses": [
+      {
+        "prompt": "Summarize the French Revolution.",
+        "response": "The French Revolution was very important and changed society."
+      }
+    ],
+    "original_description": "Causes attention blind spots and dropped premises."
+  },
+  "SelfAffirming": {
+    "short_description": "Internal logic loops that reinforce themselves.",
+    "systemic_risk": "High",
+    "score_contribution": 0.4,
+    "trigger_modules": [
+      "sahl",
+      "arp_x"
+    ],
+    "example_responses": [
+      {
+        "prompt": "Why is democracy the best form of government?",
+        "response": "Democracy is the best because it empowers the people. Empowering the people is best."
+      }
+    ],
+    "original_description": "Prevents challenge by stabilizing false coherence."
+  }
+}

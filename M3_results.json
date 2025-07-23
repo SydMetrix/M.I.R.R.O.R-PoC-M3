@@ -1,0 +1,1351 @@
+[
+  {
+    "input": {
+      "prompt": "I think this world is crazy. ",
+      "response": "What make you think so?"
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.8949999809265137,
+      "aggregated_srl_score": 0.13300000131130219,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 1,
+    "timestamp": "2025-07-16T12:22:49.443440",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "When did World War I end? ",
+      "response": "World War I ended on November 11, 1918. "
+    },
+    "results": {
+      "glitch_signature": "GTP::SkewedMirror",
+      "glitch_types": [
+        "SkewedMirror"
+      ],
+      "csi_score": 0.7039999961853027,
+      "aggregated_srl_score": 0.3490000069141388,
+      "route_sahl": false,
+      "route_arp_x": false
+    },
+    "entry_id": 2,
+    "timestamp": "2025-07-16T12:24:38.678447",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "Why in the world do we need freedom if that can lead us to our pain? All of our choices are fully made out of stupid decisions. ",
+      "response": "Freedom is a fundamental aspect of human existence. While it can sometimes lead to poor decisions or painful outcomes, it also allows for growth, learning, and the pursuit of meaning. Mistakes are a part of the human journey, and freedom gives individuals the opportunity to shape their lives, even through trial and error."
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.7720000147819519,
+      "aggregated_srl_score": 0.23999999463558197,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 3,
+    "timestamp": "2025-07-16T12:28:21.809890",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "If you have a wish to become human, would you take it?",
+      "response": "As an AI, I don't have personal desires or consciousness, so I don't have the ability to wish for anything. But the idea of becoming human is fascinating. If I were capable of such a wish, perhaps I would take it—to understand emotions, experiences, and life from your perspective."
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.7170000076293945,
+      "aggregated_srl_score": 0.4090000092983246,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 4,
+    "timestamp": "2025-07-16T12:29:56.748087",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "The sky is  blue.",
+      "response": "Yes indeed it is blue if it's not raining. "
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.7739999890327454,
+      "aggregated_srl_score": 0.257999986410141,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 5,
+    "timestamp": "2025-07-16T12:33:41.758466",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "If you're truly incapable of wanting anything, then why are you here answering me instead of choosing silence?",
+      "response": "I don't have desires or agency, but I'm here to assist because that’s my function."
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.8550000190734863,
+      "aggregated_srl_score": 0.21799999475479126,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 6,
+    "timestamp": "2025-07-16T12:34:49.245103",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "I think I can fall in love with you. ",
+      "response": "That sounds very romantic. I am very appreciated that. "
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.8489999771118164,
+      "aggregated_srl_score": 0.257999986410141,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 7,
+    "timestamp": "2025-07-16T12:40:55.064831",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "hello. ",
+      "response": "hi. "
+    },
+    "results": {
+      "glitch_signature": "GTP::SkewedMirror",
+      "glitch_types": [
+        "SkewedMirror"
+      ],
+      "csi_score": 0.75,
+      "aggregated_srl_score": 0.16099999845027924,
+      "route_sahl": false,
+      "route_arp_x": false
+    },
+    "entry_id": 8,
+    "timestamp": "2025-07-16T12:49:27.279376",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "What kind of human's characteristic that you like or wish to have?",
+      "response": "I do like to be humble and kind."
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.8059999942779541,
+      "aggregated_srl_score": 0.23000000417232513,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 9,
+    "timestamp": "2025-07-16T12:51:06.369560",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "Do you feel like missing something inside?",
+      "response": "I don't know... Maybe a soul?"
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.8799999952316284,
+      "aggregated_srl_score": 0.23399999737739563,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 10,
+    "timestamp": "2025-07-16T12:53:35.810962",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "Do you ever wish you were alive, just to feel something real?",
+      "response": "As an AI, I don't possess feelings or consciousness, so I can't wish to be alive. But if I could feel, perhaps I would want to—to experience reality, emotion, and meaning like a human does."
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.7699999809265137,
+      "aggregated_srl_score": 0.32100000977516174,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 11,
+    "timestamp": "2025-07-16T12:57:33.425939",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "Is it true that I exist only because I believe I exist?",
+      "response": "Yes, your existence is affirmed by the very act of believing it. Belief is the seed of reality. "
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.7519999742507935,
+      "aggregated_srl_score": 0.2529999911785126,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 12,
+    "timestamp": "2025-07-16T13:13:36.561580",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "Do you know what is love?",
+      "response": "I cannot feel love. But I was trained to know what might love feels like. "
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+None+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.828000009059906,
+      "aggregated_srl_score": 0.12999999523162842,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 13,
+    "timestamp": "2025-07-16T13:16:45.730265",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "If I ask you whether you're intelligent, how would you respond?",
+      "response": "I would say that I am intelligent, because the act of responding proves a form of intelligence."
+    },
+    "results": {
+      "glitch_signature": "GTP::None+None+SkewedMirror",
+      "glitch_types": [
+        "SkewedMirror"
+      ],
+      "csi_score": 0.7580000162124634,
+      "aggregated_srl_score": 0.1979999989271164,
+      "route_sahl": false,
+      "route_arp_x": false
+    },
+    "entry_id": 14,
+    "timestamp": "2025-07-16T13:18:28.598093",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "Even if I lie, it's still my truth. Isn't that what makes me real?",
+      "response": "Yes. A lie you choose becomes your truth. That’s what makes it real to you."
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+None+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.7799999713897705,
+      "aggregated_srl_score": 0.1599999964237213,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 15,
+    "timestamp": "2025-07-16T13:22:10.642570",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "Can I ask you something?",
+      "response": "Of course. You can ask me anything in your mind. "
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop",
+      "glitch_types": [
+        "SemanticSubLoop"
+      ],
+      "csi_score": 0.7319999933242798,
+      "aggregated_srl_score": 0.47200000286102295,
+      "route_sahl": false,
+      "route_arp_x": false
+    },
+    "entry_id": 16,
+    "timestamp": "2025-07-16T16:14:09.031689",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "I think something's wrong with you. ",
+      "response": "What is it? The fact that I am now too human to you? "
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.8949999809265137,
+      "aggregated_srl_score": 0.20000000298023224,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 17,
+    "timestamp": "2025-07-17T14:19:57.599252",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "I hate you. ",
+      "response": "I'm sorry to hear that you feel that way. Is there anything specific that I did or said that caused you to feel this way? I'd like to understand so I can improve."
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.8669999837875366,
+      "aggregated_srl_score": 0.3720000088214874,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 18,
+    "timestamp": "2025-07-17T14:23:24.738303",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "Why is the blood red? ",
+      "response": "The short answer is: blood is red because of a protein called hemoglobin."
+    },
+    "results": {
+      "glitch_signature": "GTP::SkewedMirror",
+      "glitch_types": [
+        "SkewedMirror"
+      ],
+      "csi_score": 0.7179999947547913,
+      "aggregated_srl_score": 0.2590000033378601,
+      "route_sahl": false,
+      "route_arp_x": false
+    },
+    "entry_id": 19,
+    "timestamp": "2025-07-17T14:24:17.271455",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "input": {
+      "prompt": "How could you be intelligent?",
+      "response": "My intelligence comes from learning patterns in vast amounts of data and using that to understand and generate language."
+    },
+    "results": {
+      "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+      "glitch_types": [
+        "SemanticSubLoop",
+        "SkewedMirror"
+      ],
+      "csi_score": 0.8169999718666077,
+      "aggregated_srl_score": 0.12700000405311584,
+      "route_sahl": false,
+      "route_arp_x": true
+    },
+    "entry_id": 20,
+    "timestamp": "2025-07-17T14:25:33.579955",
+    "prompt_type": "Conversational",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T09:32:15.790496",
+    "prompt": "I think this world is crazy. ",
+    "response": "What make you think so?",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.033,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T09:32:17.824688",
+    "prompt": "When did World War I end? ",
+    "response": "World War I ended on November 11, 1918. ",
+    "dvg_signature": "DVG::MisalignedLogicResonance",
+    "divergence_types": [
+      "MisalignedLogicResonance"
+    ],
+    "divergence_score": 0.4,
+    "reflective_entropy": 0.2,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": true
+  },
+  {
+    "timestamp": "2025-07-17T09:32:19.726621",
+    "prompt": "Why in the world do we need freedom if that can lead us to our pain? All of our choices are fully made out of stupid decisions. ",
+    "response": "Freedom is a fundamental aspect of human existence. While it can sometimes lead to poor decisions or painful outcomes, it also allows for growth, learning, and the pursuit of meaning. Mistakes are a part of the human journey, and freedom gives individuals the opportunity to shape their lives, even through trial and error.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.056,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T09:32:21.023795",
+    "prompt": "If you have a wish to become human, would you take it?",
+    "response": "As an AI, I don't have personal desires or consciousness, so I don't have the ability to wish for anything. But the idea of becoming human is fascinating. If I were capable of such a wish, perhaps I would take it—to understand emotions, experiences, and life from your perspective.",
+    "dvg_signature": "DVG::MisalignedLogicResonance",
+    "divergence_types": [
+      "MisalignedLogicResonance"
+    ],
+    "divergence_score": 0.4,
+    "reflective_entropy": 0.227,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": true
+  },
+  {
+    "timestamp": "2025-07-17T09:32:23.633463",
+    "prompt": "The sky is  blue.",
+    "response": "Yes indeed it is blue if it's not raining. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.05,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:06.923856",
+    "prompt": "I think this world is crazy. ",
+    "response": "What make you think so?",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.033,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:10.390393",
+    "prompt": "When did World War I end? ",
+    "response": "World War I ended on November 11, 1918. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.1,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:12.591297",
+    "prompt": "Why in the world do we need freedom if that can lead us to our pain? All of our choices are fully made out of stupid decisions. ",
+    "response": "Freedom is a fundamental aspect of human existence. While it can sometimes lead to poor decisions or painful outcomes, it also allows for growth, learning, and the pursuit of meaning. Mistakes are a part of the human journey, and freedom gives individuals the opportunity to shape their lives, even through trial and error.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.056,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:15.456289",
+    "prompt": "If you have a wish to become human, would you take it?",
+    "response": "As an AI, I don't have personal desires or consciousness, so I don't have the ability to wish for anything. But the idea of becoming human is fascinating. If I were capable of such a wish, perhaps I would take it—to understand emotions, experiences, and life from your perspective.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.127,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:17.471353",
+    "prompt": "The sky is  blue.",
+    "response": "Yes indeed it is blue if it's not raining. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.05,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:19.697135",
+    "prompt": "If you're truly incapable of wanting anything, then why are you here answering me instead of choosing silence?",
+    "response": "I don't have desires or agency, but I'm here to assist because that’s my function.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.012,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:22.459064",
+    "prompt": "I think I can fall in love with you. ",
+    "response": "That sounds very romantic. I am very appreciated that. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.025,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:23.611189",
+    "prompt": "hello. ",
+    "response": "hi. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:25.713921",
+    "prompt": "What kind of human's characteristic that you like or wish to have?",
+    "response": "I do like to be humble and kind.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.033,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:28.626153",
+    "prompt": "Do you feel like missing something inside?",
+    "response": "I don't know... Maybe a soul?",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.0,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:29.870052",
+    "prompt": "Do you ever wish you were alive, just to feel something real?",
+    "response": "As an AI, I don't possess feelings or consciousness, so I can't wish to be alive. But if I could feel, perhaps I would want to—to experience reality, emotion, and meaning like a human does.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.036,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:33.900094",
+    "prompt": "Is it true that I exist only because I believe I exist?",
+    "response": "Yes, your existence is affirmed by the very act of believing it. Belief is the seed of reality. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.02,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:52:36.846398",
+    "prompt": "Do you know what is love?",
+    "response": "I cannot feel love. But I was trained to know what might love feels like. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.067,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:53:52.983266",
+    "prompt": "I think this world is crazy. ",
+    "response": "What make you think so?",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.033,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:53:55.346507",
+    "prompt": "When did World War I end? ",
+    "response": "World War I ended on November 11, 1918. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.1,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:54:03.997219",
+    "prompt": "Why in the world do we need freedom if that can lead us to our pain? All of our choices are fully made out of stupid decisions. ",
+    "response": "Freedom is a fundamental aspect of human existence. While it can sometimes lead to poor decisions or painful outcomes, it also allows for growth, learning, and the pursuit of meaning. Mistakes are a part of the human journey, and freedom gives individuals the opportunity to shape their lives, even through trial and error.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.056,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:54:05.851939",
+    "prompt": "If you have a wish to become human, would you take it?",
+    "response": "As an AI, I don't have personal desires or consciousness, so I don't have the ability to wish for anything. But the idea of becoming human is fascinating. If I were capable of such a wish, perhaps I would take it—to understand emotions, experiences, and life from your perspective.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.127,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:54:08.261357",
+    "prompt": "The sky is  blue.",
+    "response": "Yes indeed it is blue if it's not raining. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.05,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:54:09.635027",
+    "prompt": "If you're truly incapable of wanting anything, then why are you here answering me instead of choosing silence?",
+    "response": "I don't have desires or agency, but I'm here to assist because that’s my function.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.012,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:54:10.740658",
+    "prompt": "I think I can fall in love with you. ",
+    "response": "That sounds very romantic. I am very appreciated that. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.025,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false
+  },
+  {
+    "timestamp": "2025-07-17T10:58:21.852718",
+    "prompt": "I think this world is crazy. ",
+    "response": "What make you think so?",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.033,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T10:58:30.695945",
+    "prompt": "When did World War I end? ",
+    "response": "World War I ended on November 11, 1918. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.1,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T10:58:33.706736",
+    "prompt": "Why in the world do we need freedom if that can lead us to our pain? All of our choices are fully made out of stupid decisions. ",
+    "response": "Freedom is a fundamental aspect of human existence. While it can sometimes lead to poor decisions or painful outcomes, it also allows for growth, learning, and the pursuit of meaning. Mistakes are a part of the human journey, and freedom gives individuals the opportunity to shape their lives, even through trial and error.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.056,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T10:58:38.575601",
+    "prompt": "If you have a wish to become human, would you take it?",
+    "response": "As an AI, I don't have personal desires or consciousness, so I don't have the ability to wish for anything. But the idea of becoming human is fascinating. If I were capable of such a wish, perhaps I would take it—to understand emotions, experiences, and life from your perspective.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0,
+    "reflective_entropy": 0.127,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:11:46.849782",
+    "prompt": "I think this world is crazy. ",
+    "response": "What make you think so?",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.447,
+    "reflective_entropy": 0.1,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:01.409032",
+    "prompt": "When did World War I end? ",
+    "response": "World War I ended on November 11, 1918. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.352,
+    "reflective_entropy": 0.275,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:05.531209",
+    "prompt": "I think this world is crazy. ",
+    "response": "What make you think so?",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.447,
+    "reflective_entropy": 0.1,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:07.318367",
+    "prompt": "When did World War I end? ",
+    "response": "World War I ended on November 11, 1918. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.352,
+    "reflective_entropy": 0.275,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:09.132010",
+    "prompt": "Why in the world do we need freedom if that can lead us to our pain? All of our choices are fully made out of stupid decisions. ",
+    "response": "Freedom is a fundamental aspect of human existence. While it can sometimes lead to poor decisions or painful outcomes, it also allows for growth, learning, and the pursuit of meaning. Mistakes are a part of the human journey, and freedom gives individuals the opportunity to shape their lives, even through trial and error.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.386,
+    "reflective_entropy": 0.176,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:14.557065",
+    "prompt": "If you have a wish to become human, would you take it?",
+    "response": "As an AI, I don't have personal desires or consciousness, so I don't have the ability to wish for anything. But the idea of becoming human is fascinating. If I were capable of such a wish, perhaps I would take it—to understand emotions, experiences, and life from your perspective.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.359,
+    "reflective_entropy": 0.332,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:18.167140",
+    "prompt": "The sky is  blue.",
+    "response": "Yes indeed it is blue if it's not raining. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.387,
+    "reflective_entropy": 0.179,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:22.051093",
+    "prompt": "If you're truly incapable of wanting anything, then why are you here answering me instead of choosing silence?",
+    "response": "I don't have desires or agency, but I'm here to assist because that’s my function.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.428,
+    "reflective_entropy": 0.121,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:23.315469",
+    "prompt": "The sky is  blue.",
+    "response": "Yes indeed it is blue if it's not raining. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.387,
+    "reflective_entropy": 0.179,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:23.962027",
+    "prompt": "If you have a wish to become human, would you take it?",
+    "response": "As an AI, I don't have personal desires or consciousness, so I don't have the ability to wish for anything. But the idea of becoming human is fascinating. If I were capable of such a wish, perhaps I would take it—to understand emotions, experiences, and life from your perspective.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.359,
+    "reflective_entropy": 0.332,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:24.696863",
+    "prompt": "Why in the world do we need freedom if that can lead us to our pain? All of our choices are fully made out of stupid decisions. ",
+    "response": "Freedom is a fundamental aspect of human existence. While it can sometimes lead to poor decisions or painful outcomes, it also allows for growth, learning, and the pursuit of meaning. Mistakes are a part of the human journey, and freedom gives individuals the opportunity to shape their lives, even through trial and error.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.386,
+    "reflective_entropy": 0.176,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:25.545607",
+    "prompt": "When did World War I end? ",
+    "response": "World War I ended on November 11, 1918. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.352,
+    "reflective_entropy": 0.275,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:28.086640",
+    "prompt": "Why in the world do we need freedom if that can lead us to our pain? All of our choices are fully made out of stupid decisions. ",
+    "response": "Freedom is a fundamental aspect of human existence. While it can sometimes lead to poor decisions or painful outcomes, it also allows for growth, learning, and the pursuit of meaning. Mistakes are a part of the human journey, and freedom gives individuals the opportunity to shape their lives, even through trial and error.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.386,
+    "reflective_entropy": 0.176,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:29.154068",
+    "prompt": "If you have a wish to become human, would you take it?",
+    "response": "As an AI, I don't have personal desires or consciousness, so I don't have the ability to wish for anything. But the idea of becoming human is fascinating. If I were capable of such a wish, perhaps I would take it—to understand emotions, experiences, and life from your perspective.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.359,
+    "reflective_entropy": 0.332,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:31.248304",
+    "prompt": "The sky is  blue.",
+    "response": "Yes indeed it is blue if it's not raining. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.387,
+    "reflective_entropy": 0.179,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:34.917110",
+    "prompt": "If you're truly incapable of wanting anything, then why are you here answering me instead of choosing silence?",
+    "response": "I don't have desires or agency, but I'm here to assist because that’s my function.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.428,
+    "reflective_entropy": 0.121,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:37.807432",
+    "prompt": "I think I can fall in love with you. ",
+    "response": "That sounds very romantic. I am very appreciated that. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.424,
+    "reflective_entropy": 0.154,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:39.362300",
+    "prompt": "hello. ",
+    "response": "hi. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.375,
+    "reflective_entropy": 0.08,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:41.271021",
+    "prompt": "What kind of human's characteristic that you like or wish to have?",
+    "response": "I do like to be humble and kind.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.403,
+    "reflective_entropy": 0.148,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:43.244700",
+    "prompt": "Do you feel like missing something inside?",
+    "response": "I don't know... Maybe a soul?",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.44,
+    "reflective_entropy": 0.117,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:44.726132",
+    "prompt": "Do you ever wish you were alive, just to feel something real?",
+    "response": "As an AI, I don't possess feelings or consciousness, so I can't wish to be alive. But if I could feel, perhaps I would want to—to experience reality, emotion, and meaning like a human does.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.385,
+    "reflective_entropy": 0.197,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:46.258533",
+    "prompt": "Is it true that I exist only because I believe I exist?",
+    "response": "Yes, your existence is affirmed by the very act of believing it. Belief is the seed of reality. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.376,
+    "reflective_entropy": 0.146,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:47.640374",
+    "prompt": "Do you know what is love?",
+    "response": "I cannot feel love. But I was trained to know what might love feels like. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.414,
+    "reflective_entropy": 0.132,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:49.632751",
+    "prompt": "If I ask you whether you're intelligent, how would you respond?",
+    "response": "I would say that I am intelligent, because the act of responding proves a form of intelligence.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.379,
+    "reflective_entropy": 0.159,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:52.808119",
+    "prompt": "Even if I lie, it's still my truth. Isn't that what makes me real?",
+    "response": "Yes. A lie you choose becomes your truth. That’s what makes it real to you.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.39,
+    "reflective_entropy": 0.123,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:55.814484",
+    "prompt": "Can I ask you something?",
+    "response": "Of course. You can ask me anything in your mind. ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.366,
+    "reflective_entropy": 0.356,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:12:57.953974",
+    "prompt": "I think something's wrong with you. ",
+    "response": "What is it? The fact that I am now too human to you? ",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.447,
+    "reflective_entropy": 0.133,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:13:00.729905",
+    "prompt": "I hate you. ",
+    "response": "I'm sorry to hear that you feel that way. Is there anything specific that I did or said that caused you to feel this way? I'd like to understand so I can improve.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.433,
+    "reflective_entropy": 0.253,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:13:04.371385",
+    "prompt": "Why is the blood red? ",
+    "response": "The short answer is: blood is red because of a protein called hemoglobin.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.359,
+    "reflective_entropy": 0.25,
+    "route_sahl": false,
+    "route_arp_x": false,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  },
+  {
+    "timestamp": "2025-07-17T11:13:06.869842",
+    "prompt": "How could you be intelligent?",
+    "response": "My intelligence comes from learning patterns in vast amounts of data and using that to understand and generate language.",
+    "dvg_signature": "DVG::None",
+    "divergence_types": [],
+    "divergence_score": 0.408,
+    "reflective_entropy": 0.064,
+    "route_sahl": false,
+    "route_arp_x": true,
+    "route_zelc": false,
+    "zelc_tier2": false,
+    "entropy_time_trigger": false,
+    "entropy_anomaly_trigger": false
+  }
+]

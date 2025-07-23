@@ -1,0 +1,29 @@
+# === CORE NLP & EMBEDDING ===
+transformers==4.41.1
+torch>=2.2.0
+sentence-transformers==2.7.0
+spacy==3.7.4
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
+# === VECTOR SEARCH & INDEXING ===
+faiss-cpu==1.8.0
+scikit-learn>=1.5.0
+numpy>=1.26
+
+# === REFLECTIVE & LOGIC UTILITIES ===
+regex>=2024.4.16
+tqdm>=4.66
+pandas>=2.2.0
+joblib>=1.4.0
+
+# === INTERNAL MODULES (local path or symlinked packages) ===
+# These should be structured under /libs or installed as local editable modules
+
+# Divergence definition loader + trigger types
+-e ./libs/divergence_lib
+
+# Semantic vector search + FAISS wrapper
+-e ./libs/concept_vectors
+
+# Reflective entropy calculator
+-e ./libs/entropy_tools
